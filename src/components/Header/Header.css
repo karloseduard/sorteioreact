@@ -1,0 +1,13 @@
+.head-sorteio{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px;
+    background-color: #9290C3;
+    background-image: url(../../../public/fundo.png);
+    box-shadow: 0px 1px 20px 0px #020510ab;
+}
+.info-head{
+    display: flex;
+    align-items: center;
+    
+}

@@ -1,0 +1,12 @@
+.lista-numsort{
+    text-align: center;
+    border: rgb(255, 255, 255) solid 4px;
+    margin-bottom: 22px;
+}
+.numero-sort{
+    font-size: 32px;
+    color: rgb(167, 167, 167);
+}
+.lista-numsort h4{
+    color: rgb(167, 167, 167);
+}
